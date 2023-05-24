@@ -83,8 +83,15 @@ Unless otherwise stated, for each question:
 
 
 
-
-
-
-
-
+|      Id          | count|
+| -----------------| -----|
+| Thanet           | 1130 |
+| Greenwich        | 882  |
+| Maidstone        | 713  |
+| Newham           | 711  |
+| Swale            | 686  |
+| Chelmsford       | 680  |
+| Medway           | 672  |
+| Bexley           | 607  |
+| Southend-On-Sea  | 586  |
+| Tendring         | 542  |
